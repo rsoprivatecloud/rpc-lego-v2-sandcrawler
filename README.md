@@ -13,3 +13,7 @@ There are only 2 rules:
   1. No "Cowboy Coding". Only do a few pages. Don't complete entire sections by yourself. This is a team effort.
   2. Communicate Progress. There are a few blank log sheets. When your start, pick up where the last person finished. When you're done, log the last step you completed so the next person knows where to start.
 That's it! Have fun. LEGOs!
+
+| Name                                              | Completed Page(s) | Notes                                            |
+|---------------------------------------------------|-------------------|--------------------------------------------------|
+|Dave W                                             | Unboxing          |                                                  |
