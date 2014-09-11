@@ -17,3 +17,4 @@ That's it! Have fun. LEGOs!
 | Name                                              | Completed Page(s) | Notes                                            |
 |---------------------------------------------------|-------------------|--------------------------------------------------|
 |Dave W                                             | Unboxing          |                                                  |
+|Christy M					    | pg 25 done        | I made a droid and two jawas.                    |
